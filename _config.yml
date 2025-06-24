@@ -1,0 +1,8 @@
+title: Mi Blog
+description: Blog estático usando Jekyll en GitHub Pages
+baseurl: ""
+url: "https://tu-usuario.github.io/mi-blog"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
